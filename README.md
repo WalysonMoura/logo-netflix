@@ -12,8 +12,7 @@
 
 <p align="justify">
 
-- HTML
-
+- HTML 
 - CSS
 
 
