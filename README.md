@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://walysonmoura.github.io/logo-netflix/"><img src="https://i.ibb.co/KD27Nnb/https-walysonmoura-github-io-logo-netflix.png" alt="https-walysonmoura-github-io-logo-netflix" border="0"></a>
+<a href="https://walysonmoura.github.io/logo-netflix/"><img src="https://i.ibb.co/QHXTFzb/https-walysonmoura-github-io-logo-netflix.png" alt="https-walysonmoura-github-io-logo-netflix" border="0"></a>
 
 </p>
 
